@@ -1,0 +1,15 @@
+.left,
+.right {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+  background-color: #1b1f19;
+  color: #fafaf7;
+  font-weight: bold;
+}
+
+.right {
+  background-color: #dbdb32;
+}
